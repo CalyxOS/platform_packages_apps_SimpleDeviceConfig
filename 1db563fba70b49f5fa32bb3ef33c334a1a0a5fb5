@@ -16,6 +16,24 @@
       "message": "What side effects if any could this have?",
       "revId": "1db563fba70b49f5fa32bb3ef33c334a1a0a5fb5",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d7aa0132_bc46f17c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-08-29T14:43:48Z",
+      "side": 1,
+      "message": "What\u0027s been mentioned is that since this app doesn\u0027t have a migration mechanism, if we\u0027d want to set a new value to an existing property it currently wouldn\u0027t apply it. Other than that I can\u0027t think of any",
+      "parentUuid": "6db7ff25_785ebca0",
+      "revId": "1db563fba70b49f5fa32bb3ef33c334a1a0a5fb5",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
